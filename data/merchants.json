@@ -1,0 +1,30 @@
+{
+  "source": "sample_data_until_live_source_connected",
+  "updated_at": "2026-07-03T20:55:00+09:00",
+  "merchants": [
+    {
+      "server": "카제로스",
+      "continent": "유디아",
+      "location": "루카스",
+      "items": ["모리나", "유디아 주술서", "하늘을 비추는 기름"]
+    },
+    {
+      "server": "카제로스",
+      "continent": "루테란 서부",
+      "location": "말론",
+      "items": ["베르하트", "하셀링크", "레이크바 토마토 주스", "축정미", "머리초"]
+    },
+    {
+      "server": "카제로스",
+      "continent": "루테란 동부",
+      "location": "모리스",
+      "items": ["푸름 전사 브리뉴", "미한", "디오리카 밀짚모자", "루테란의 검 모형", "드라이에이징 된 고기"]
+    },
+    {
+      "server": "카제로스",
+      "continent": "애니츠",
+      "location": "맥",
+      "items": ["객주도사", "수령도사", "웨이", "비무제 참가 인장", "태초의 주머니"]
+    }
+  ]
+}
