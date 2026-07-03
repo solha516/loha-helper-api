@@ -1,0 +1,8 @@
+{
+  "카제로스": [
+    {"continent":"유디아","area":"루카스","items":[{"name":"모리나","grade":"green"},{"name":"유디아 주술서","grade":"purple"},{"name":"하늘을 비추는 기름","grade":"orange"}]},
+    {"continent":"루테란 서부","area":"말론","items":[{"name":"베르하트","grade":"green"},{"name":"하셀링크","grade":"blue"},{"name":"레이크바 토마토 주스","grade":"purple"},{"name":"축정미","grade":"purple"},{"name":"머리초","grade":"purple"}]},
+    {"continent":"루테란 동부","area":"모리스","items":[{"name":"푸름 전사 브리뉴","grade":"green"},{"name":"미한","grade":"blue"},{"name":"디오리카 밀짚모자","grade":"purple"},{"name":"루테란의 검 모형","grade":"purple"},{"name":"드라이에이징 된 고기","grade":"blue"}]},
+    {"continent":"애니츠","area":"맥","items":[{"name":"객주도사","grade":"green"},{"name":"수령도사","grade":"green"},{"name":"웨이","grade":"orange"},{"name":"비무제 참가 인장","grade":"purple"},{"name":"태초의 주머니","grade":"orange"}]}
+  ]
+}
